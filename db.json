@@ -1,10 +1,10 @@
 {
-  "list": [{
+  "data": [{
      "name": "Image1",
       "width": "45" ,
       "height" : "45",
       "tags" : ["joy","happy"],
-      "imageUrl" : "https://something.her.com",
-      "type" : "jpeg"
+      "url" : "http://i.imgur.com/DvpvklR.png",
+      "type" : "png"
            }]
 }
