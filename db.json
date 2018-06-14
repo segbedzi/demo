@@ -1,5 +1,6 @@
 {
-  "data": [
+  "data":{
+  [
     {
      "name": "Image1",
       "width": "45" ,
@@ -39,4 +40,5 @@
       "type" : "png"
            }
   ]
+  }
 }
